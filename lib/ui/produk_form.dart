@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:coba2/ui/produk_detail.dart';
+import 'package:latihan1/ui/produk_detail.dart';
 
 class Produkform extends StatefulWidget {
   @override
